@@ -1,0 +1,6 @@
+Feature_1,Feature_2,Pearson_Correlation
+savings_rate_calculated,financial_health_score,0.7976802820879697
+debt_to_income_calculated,financial_health_score,-0.40186594045811336
+monthly_surplus,financial_health_score,0.47770239918119384
+emergency_fund_months,financial_health_score,0.6946761878001326
+goal_gap,goal_progress_percent,-0.8614747773144273

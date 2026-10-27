@@ -1,0 +1,6 @@
+Profile_ID,Profile_Name,Archetype,Age,Monthly_Income,Monthly_Expense,Current_Savings,Debt,Financial_Goal,Horizon_Years,Risk_Score,Target_Health_Category,Description
+DEMO-01,Financially Strong,High Saver & Conservative,38,120000,40000,300000,10000,500000,5,70,Good,"High savings rate (>60%), low leverage, and well-funded emergency cushion."
+DEMO-02,Debt Heavy,High Leverage & Vulnerable,29,45000,40000,5000,80000,200000,3,30,Needs Improvement,"Constrained cash flow, negative liquidity cushion, and elevated debt burden."
+DEMO-03,Goal Focused,Aggressive Capital Accumulator,32,95000,42000,120000,18000,400000,4,60,Good,Disciplined saver allocating >50% surplus towards a specific capital purchase.
+DEMO-04,Moderate Investor,Balanced Mainstream Earner,35,80000,45000,35000,15000,200000,10,50,Moderate,Standard fintech user baseline with moderate health and stable cash flow.
+DEMO-05,Early Saver,Young Career Starter,24,38000,26000,15000,0,150000,5,45,Moderate,"Entry-level professional with zero debt, developing systematic savings habits."

@@ -1,0 +1,40 @@
+{
+    "best_model": "Logistic Regression",
+    "metrics": {
+        "Accuracy": 0.82,
+        "Precision": 0.820924963924964,
+        "Recall": 0.82,
+        "F1 Score": 0.8184056039219727
+    },
+    "comparison": {
+        "Logistic Regression": {
+            "Accuracy": 0.82,
+            "Precision": 0.820924963924964,
+            "Recall": 0.82,
+            "F1 Score": 0.8184056039219727
+        },
+        "Decision Tree Classifier": {
+            "Accuracy": 0.72,
+            "Precision": 0.7188690476190476,
+            "Recall": 0.72,
+            "F1 Score": 0.7186799184505607
+        },
+        "Random Forest Classifier": {
+            "Accuracy": 0.8066666666666666,
+            "Precision": 0.8102089265308865,
+            "Recall": 0.8066666666666666,
+            "F1 Score": 0.8050575306660874
+        }
+    },
+    "feature_columns": [
+        "age",
+        "monthly_income",
+        "monthly_expense",
+        "monthly_savings",
+        "current_savings",
+        "debt",
+        "financial_goal_amount",
+        "investment_horizon_years",
+        "risk_tolerance_score"
+    ]
+}
